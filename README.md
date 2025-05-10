@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Week18/Google-Analytics-Logo.png" alt="GA4 Logo" width="120">
+</p>
+
 # weekly-GA4-reporting-
 GA4-based weekly business reporting with ad hoc and ecommerce insights in Rmarkdown.
 
