@@ -7,17 +7,15 @@
 | Week    |  Report Link      
 |---------|---------------| 
 
-| Week 18 | [View PDF](https://github.com/HNordholm/weekly-GA4-reporting-/blob/main/Week18/w18report.pdf) |
+| Week 18 | [View PDF](https://github.com/HNordholm/weekly-GA4-reporting-/blob/main/Week18/w18report.pdf) 
 
-|---------|-----------------------------------------------------------------------------------------------| 
 
 | Week 19 | Coming soon                                                                                                                 
 
-|---------|-----------------------------------------------------------------------------------------------| 
 
 | Week 20 | Coming soon                                    
 
-|---------|-----------------------------------------------------------------------------------------------| 
+
 
 
 Welcome, this repository contains weekly business reporting  based on data from the GA4 demo store.
