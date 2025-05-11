@@ -2,16 +2,22 @@
   <img src="Week18/Google-Analytics-Logo.png" alt="GA4 Logo" width="120">
 </p>
 
+**GA4-based weekly business reporting with ad hoc and ecommerce insights in Rmarkdown.**
+
 | Week    |  Report Link      
 |---------|---------------| 
 
 | Week 18 | [View PDF](https://github.com/HNordholm/weekly-GA4-reporting-/blob/main/Week18/w18report.pdf) |
 
+|---------|-----------------------------------------------------------------------------------------------| 
+
 | Week 19 | Coming soon                                                                                                                 
+
+|---------|-----------------------------------------------------------------------------------------------| 
 
 | Week 20 | Coming soon                                    
 
-GA4-based weekly business reporting with ad hoc and ecommerce insights in Rmarkdown.
+|---------|-----------------------------------------------------------------------------------------------| 
 
 
 Welcome, this repository contains weekly business reporting  based on data from the GA4 demo store.
