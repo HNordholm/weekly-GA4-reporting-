@@ -4,8 +4,11 @@
 
 | Week    |  Report Link      
 |---------|----------------------------------------------------------|------------------------------------------------------------------------------|
+
 | Week 18 | [View PDF](https://github.com/HNordholm/weekly-GA4-reporting-/blob/main/Week18/w18report.pdf) |
+
 | Week 19 | Coming soon                                                                                                                 
+
 | Week 20 | Coming soon                                    
 
 GA4-based weekly business reporting with ad hoc and ecommerce insights in Rmarkdown.
