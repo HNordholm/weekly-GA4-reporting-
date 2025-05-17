@@ -8,7 +8,7 @@
 | Week 18 | [View PDF](https://github.com/HNordholm/weekly-GA4-reporting-/blob/main/Week18/w18report.pdf) 
 
 
-| Week 19 | Coming soon                                                                                                                 
+| Week 19 | [View PDF](https://github.com/HNordholm/weekly-GA4-reporting-/blob/main/Week19/w19report.pdf)                                                                                                          
 
 
 | Week 20 | Coming soon                                    
@@ -31,5 +31,11 @@ Each weekly report includes:
 - reporting workflows
 - Analyze ecommerce performance using GA4 and looker studio 
 - Communicate insights through R Markdown reports
+
+## Week 19 looker dashboard 
+
+<p align="center">
+  <img src="Week19/lookerdashboard.png">
+</p>
 
 
