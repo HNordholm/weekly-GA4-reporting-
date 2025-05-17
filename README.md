@@ -16,8 +16,8 @@
 
 
 
-Welcome, this repository contains weekly business reporting  based on data from the GA4 demo store.
-Each report answers 4–6 ad hoc business questions using GA4's interface.
+Welcome, this repository contains weekly business reporting based on data from the GA4 demo store.
+Each report answers 4–6 business questions using GA4's interface and looker. 
 Reports are presented as PDF documents and organized by week in separate folders within the repository.
 
 
@@ -29,7 +29,7 @@ Each weekly report includes:
 ## Objectives
 
 - reporting workflows
-- Analyze ecommerce performance using GA4
-- Communicate insights through Rmarkdown reports
+- Analyze ecommerce performance using GA4 and looker studio 
+- Communicate insights through R Markdown reports
 
 
